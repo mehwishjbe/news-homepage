@@ -54,6 +54,12 @@ body{
     justify-content: space-between;
 }
 
+.hamburgerImageClose{
+    position: absolute;
+    right: 30px;
+    top: 60px;
+}
+
 .logoImg{
     padding-left: 50px;
 }
