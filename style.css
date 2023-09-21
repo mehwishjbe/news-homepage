@@ -32,3 +32,11 @@ body{
 .navbarLinks ul li{
     list-style: none;
 }
+
+.navbarLinks li a{
+    text-decoration: none;
+    color:hsl(236, 13%, 42%);
+    padding: 1rem;
+    display: block;
+    font-weight: 600;
+}
