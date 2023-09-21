@@ -57,3 +57,14 @@ body{
 .logoImg{
     padding-left: 50px;
 }
+
+.mobNavbar{
+    position: fixed;
+    top: 0;
+    left: 100%;
+    width: 100%;
+    min-height: 100vh;
+    background-color: whitesmoke;
+    padding-top: 120px;
+    transition: 0.4s;
+}
