@@ -86,3 +86,14 @@ body{
     color: hsl(35, 77%, 62%);
     font-weight: bold;
 }
+
+
+@media(max-width: 500px){
+
+    .logoImg{
+        position: absolute;
+        left: 30px;
+        top: 55px;
+        padding-left: 0px;
+    }
+}
