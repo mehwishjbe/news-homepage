@@ -88,6 +88,11 @@ body{
     text-decoration: none;
 }
 
+.mobNavbar.active{
+    left: 0;
+    text-align: left;
+}
+
 .mobNavbar a:hover{
     color: hsl(35, 77%, 62%);
     font-weight: bold;
