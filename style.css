@@ -96,4 +96,12 @@ body{
         top: 55px;
         padding-left: 0px;
     }
+
+    .hamburgerImage{
+        display: flex;
+        position: absolute;
+        right: 30px;
+        top: 55px;
+        padding-left: 0px;
+    }
 }
