@@ -46,6 +46,14 @@ body{
     font-weight: bold;
 }
 
+.hamburgerImage{
+    position: absolute;
+    right: 30px;
+    top: 70px;
+    display: none;
+    justify-content: space-between;
+}
+
 .logoImg{
     padding-left: 50px;
 }
