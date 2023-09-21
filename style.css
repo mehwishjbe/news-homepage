@@ -21,3 +21,14 @@ body{
     justify-content: space-between;
     color:hsl(240, 100%, 5%);
 }
+
+.navbarLinks ul{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    padding-right: 40px;
+}
+
+.navbarLinks ul li{
+    list-style: none;
+}
