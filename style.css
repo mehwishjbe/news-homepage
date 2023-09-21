@@ -41,6 +41,11 @@ body{
     font-weight: 600;
 }
 
+.navbarLinks li a:hover{
+    color: hsl(35, 77%, 62%);
+    font-weight: bold;
+}
+
 .logoImg{
     padding-left: 50px;
 }
