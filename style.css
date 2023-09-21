@@ -108,4 +108,17 @@ body{
     .navbar li{
         display: none;
     }
+
+    .mobNavbar a{
+        display: block;
+        text-align: center;
+        width: 100%;
+        max-width: 200px;
+        margin-bottom: 16px;
+        margin: 0 auto 16px;
+        padding: 12px 16px;
+        background-color: whitesmoke;
+        color: hsl(233, 8%, 79%);
+        text-decoration: none;
+    }
 }
