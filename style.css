@@ -40,3 +40,7 @@ body{
     display: block;
     font-weight: 600;
 }
+
+.logoImg{
+    padding-left: 50px;
+}
