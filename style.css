@@ -121,4 +121,10 @@ body{
         color: hsl(233, 8%, 79%);
         text-decoration: none;
     }
+
+    .mobNavbar a:hover{
+        color: hsl(35, 77%, 62%);
+        font-weight: bold;
+        cursor: pointer;
+    }
 }
