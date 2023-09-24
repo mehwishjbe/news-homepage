@@ -6,7 +6,7 @@ This project is a solution to the [News Homepage Challenge](https://www.frontend
 ![News Homepage](./images/desktop-preview.JPG)
 
 #### Mobile Design Preview
-![News Homepage](./images/mobile-preview.JPG)
+![News Homepage](./images/mobile-preview.JPG) (./images/mobile-navbar.JPG)
 
 You can view the live project here: [News Homepage](https://mehwishjbe.github.io/news-homepage/)
 
