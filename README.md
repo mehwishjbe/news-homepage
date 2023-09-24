@@ -26,6 +26,7 @@ This project is a front-end web development challenge where I had to create a ne
 
 - Display news articles with images and headlines.
 - Responsive design for mobile screens.
+- Display menu on mobile version by clicking on hamburger image.
 
 ## Technologies Used
 
