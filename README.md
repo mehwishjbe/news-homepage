@@ -38,7 +38,7 @@ This project is a front-end web development challenge where I had to create a ne
 
 The project structure is organized as follows:
 - `html/` : The main HTML file for the project (`index.html`).
-- `css/`: Contains the compiled CSS file (`main.css`).
+- `css/`: Contains the compiled CSS file (`style.css`).
 - `js/`: Contains the JavaScript code for the project (`main.js`).
 - `images/`: A directory containing image assets used in the project.
 
