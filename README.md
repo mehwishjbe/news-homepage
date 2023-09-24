@@ -20,11 +20,10 @@ You can view the live project here: [News Homepage](https://mehwishjbe.github.io
 
 ## Overview
 
-This project is a front-end web development challenge where I had to create a news homepage according to the provided design. It's a single-page application that displays news articles and allows users to interact with the content.
+This project is a front-end web development challenge where I had to create a news homepage according to the provided design. It's a single web page.
 
 ## Features
 
-- Display news articles with images and headlines.
 - Responsive design for mobile screens.
 - Display menu on mobile version by clicking on hamburger image.
 
