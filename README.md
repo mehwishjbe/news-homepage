@@ -1,7 +1,5 @@
 # News Homepage Challenge
 
-![News Homepage](screenshot.png)
-
 This project is a solution to the [News Homepage Challenge](https://www.frontendmentor.io/challenges/news-homepage-H6SWTa1MFl) from Frontend Mentor. It is a simple news homepage built using HTML, CSS, and JavaScript.
 
 #### Web Design Preview
